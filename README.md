@@ -54,15 +54,7 @@ Jupyter Notebook · MS Word · GitHub
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavg868june-hue&show_icons=true&theme=tokyonight" alt="Raghav's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg868june-hue&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <em>"Data is the new oil — I'm here to refine it."</em>
