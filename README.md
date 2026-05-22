@@ -13,7 +13,7 @@
 - 📈 Currently exploring **Deep Learning and Advanced Feature Engineering**
 - 💡 I love turning raw data into **meaningful insights and predictive models**
 - 📬 Reach me at: **raghavg868june@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/raghav-gupta](http://linkedin.com/in/raghav-gupta-367b93328)
+- 🔗 LinkedIn: [linkedin.com/in/raghav-gupta-367b93328](http://linkedin.com/in/raghav-gupta-367b93328)
 
 ---
 
